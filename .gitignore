@@ -1,0 +1,22 @@
+# Environment and secrets
+.env
+.env.*
+creds.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
